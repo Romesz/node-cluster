@@ -5,7 +5,7 @@
   "author": "Romano Firtermaiszter <firtermaiszter.romano@gmail.com>",
   "repository": {
     "type": "git",
-    "url": ""
+    "url": "https://github.com/Romesz/node-cluster.git"
   },
   "keywords": [
     "node",
